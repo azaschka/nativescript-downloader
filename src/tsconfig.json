@@ -8,7 +8,7 @@
         "noLib": false,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
-        "lib": ["es2018", "es2017", "dom", "webworker", "es6"],
+        "lib": ["es2017", "dom", "es6"],
         "sourceMap": true,
         "pretty": true,
         "allowUnreachableCode": false,
